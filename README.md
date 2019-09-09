@@ -10,7 +10,7 @@ Refer the [Kaggle Kernels](https://www.kaggle.com/blastchar/telco-customer-churn
 
 Note:
 * You can use either Python or R.
-* Only original submissions will be rewarded.
+* Original submissions will be rewarded.
 * Please do **not** implement any machine learning algorithms as part of this task.
 
 
