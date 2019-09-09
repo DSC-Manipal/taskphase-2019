@@ -2,7 +2,7 @@
 
 ## Task 1 - Exploratory Data Analysis on Telco Customer Churn Dataset
 
-You will need to perform exploratory data analysis on the [Telco Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn "Telco Customer Churn").
+You will need to perform exploratory data analysis on the [Telco Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn "Telco Customer Churn"). You need to submit a Jupyter Notebook containing the exploratory data analysis. The Notebook has to be present in a repository titled **eda-taskphase-{{your first name}}** on your GitHub account.
 
 This task is about extracting insights and telling a story with the given data.
 
@@ -15,12 +15,12 @@ Note:
 
 
 Timeline for this task is as follows:
-|   |   |
+
+| Date ||
 |---|---|
 | 22nd September 2019 | Progress Check   |
 | 1st October 2019    | Final Submission |
 
-You will need to submit a Jupyter Notebook containing the exploratory data analysis. The Notebook has to be present in a repository titled **eda-taskphase-{{your first name}}** on your GitHub account.
 ***
 ### Workflow
 Install Miniconda or Anaconda on your system. Once installed, you should be able to start a Jupyter Notebook server from the command line. Refer [this](https://realpython.com/jupyter-notebook-introduction/) article to get started with Jupyter Notebooks. 
