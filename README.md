@@ -28,7 +28,7 @@ Install Miniconda or Anaconda on your system. Once installed, you should be able
 ### Resources
 1. [Learn Data Science by Kaggle](https://www.kaggle.com/learn/overview)
 2. [Git and GitHub](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-3. [Books on data science]()
+3. [Books on data science](https://github.com/DSC-Manipal/taskphase-2019/tree/master/books)
 
 Good luck!
 
